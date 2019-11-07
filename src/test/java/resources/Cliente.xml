@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <clientes id_cli="1" cli_nome="nome1"  cli_cpf="cpf1" cli_altura="1" clli_peso="10" cli_telefone="tel1" cli_data_de_nasc="2000-01-01" cli_end_id="1"/>
+    <clientes id_cli="2" cli_nome="nome2"  cli_cpf="cpf1" cli_altura="1" clli_peso="20" cli_telefone="tel1" cli_data_de_nasc="2000-01-01" cli_end_id="1"/>
+    <clientes id_cli="3" cli_nome="nome3"  cli_cpf="cpf1" cli_altura="1" clli_peso="30" cli_telefone="tel1" cli_data_de_nasc="2000-01-01" cli_end_id="1"/>
+    <clientes id_cli="4" cli_nome="nome4"  cli_cpf="cpf1" cli_altura="1" clli_peso="40" cli_telefone="tel1" cli_data_de_nasc="2000-01-01" cli_end_id="1"/>
+    <clientes id_cli="5" cli_nome="nome5"  cli_cpf="cpf1" cli_altura="1" clli_peso="50" cli_telefone="tel1" cli_data_de_nasc="2000-01-01" cli_end_id="1"/>
+    <clientes id_cli="6" cli_nome="nome6"  cli_cpf="cpf1" cli_altura="1" clli_peso="60" cli_telefone="tel1" cli_data_de_nasc="2000-01-01" cli_end_id="1"/>
+    <clientes id_cli="7" cli_nome="nome7"  cli_cpf="cpf1" cli_altura="1" clli_peso="70" cli_telefone="tel1" cli_data_de_nasc="2000-01-01" cli_end_id="1"/>
+</dataset>
